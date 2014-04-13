@@ -212,7 +212,7 @@ ul#adminmenu {
 
 .theme-browser .theme .theme-screenshot {
 	height: 180px;
-	min-width:
+	min-width: 0;
 }
 
 .theme-browser .theme .theme-actions {
